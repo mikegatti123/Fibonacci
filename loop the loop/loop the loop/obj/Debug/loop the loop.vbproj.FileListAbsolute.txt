@@ -1,0 +1,11 @@
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\obj\Debug\loop the loop.vbprojResolveAssemblyReference.cache
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\obj\Debug\loop_the_loop.Form1.resources
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\obj\Debug\loop_the_loop.Resources.resources
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\obj\Debug\loop the loop.vbproj.GenerateResource.Cache
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\bin\Debug\loop the loop.exe.config
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\bin\Debug\loop the loop.exe
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\bin\Debug\loop the loop.pdb
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\bin\Debug\loop the loop.xml
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\obj\Debug\loop the loop.exe
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\obj\Debug\loop the loop.xml
+C:\Users\CCLC\Documents\Michael Gatti\loop the loop\loop the loop\obj\Debug\loop the loop.pdb
